@@ -7,8 +7,6 @@ class ZillaLikes {
 
     function __construct() 
     {	
-    	add_action('admin_init', array(&$this, 'admin_init'));
-        add_action('admin_menu', array(&$this, 'admin_menu'), 99);
         add_action('wp_enqueue_scripts', array(&$this, 'enqueue_scripts'));
         add_filter('the_content', array(&$this, 'the_content'));
         add_filter('the_excerpt', array(&$this, 'the_content'));
