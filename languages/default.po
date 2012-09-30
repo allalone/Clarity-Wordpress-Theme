@@ -1,0 +1,2083 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clarity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-30 22:40+1000\n"
+"PO-Revision-Date: 2012-09-30 22:40+1000\n"
+"Last-Translator: \n"
+"Language-Team: Captain Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../clarity/404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../clarity/404.php:20 ../clarity-old/404.php:21 ../obantu/404.php:21
+#: ../spiritualized/404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../clarity/404.php:27 ../clarity-old/404.php:39 ../obantu/404.php:31
+#: ../spiritualized/404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../clarity/404.php:35
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../clarity/archive.php:22 ../obantu/archive.php:23
+#: ../obantu/taxonomy-project_type.php:23 ../spiritualized/archive.php:23
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../clarity/archive.php:25 ../obantu/archive.php:26
+#: ../obantu/taxonomy-project_type.php:26 ../spiritualized/archive.php:26
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../clarity/archive.php:32 ../obantu/archive.php:33
+#: ../obantu/taxonomy-project_type.php:33 ../spiritualized/archive.php:33
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../clarity/archive.php:40 ../obantu/archive.php:41
+#: ../obantu/taxonomy-project_type.php:41 ../spiritualized/archive.php:41
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../clarity/archive.php:43 ../obantu/archive.php:44
+#: ../obantu/taxonomy-project_type.php:44 ../spiritualized/archive.php:44
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../clarity/archive.php:46 ../obantu/archive.php:47
+#: ../obantu/taxonomy-project_type.php:47 ../spiritualized/archive.php:47
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../clarity/archive.php:49 ../clarity-old/archive.php:48
+#: ../clarity-old/sidebar.php:32 ../obantu/archive.php:50
+#: ../obantu/sidebar.php:32 ../obantu/taxonomy-project_type.php:50
+#: ../spiritualized/archive.php:50 ../spiritualized/sidebar.php:40
+msgid "Archives"
+msgstr ""
+
+#: ../clarity/comments.php:17 ../obantu/comments.php:15
+#: ../spiritualized/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../clarity/comments.php:39
+msgid "Have something to say?"
+msgstr ""
+
+#: ../clarity/content.php:18 ../clarity/content.php:30
+#: ../clarity/content.php:44 ../clarity/content.php:87
+#: ../clarity/content.php:99 ../clarity/content.php:112
+#: ../obantu/content-archive-portfolio.php:16 ../obantu/content.php:30
+#: ../obantu/older/content copy.php:13 ../spiritualized/content.php:13
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../clarity/content.php:22 ../clarity/content.php:36
+#: ../clarity/content.php:49 ../clarity/content.php:62
+#: ../clarity/content.php:77 ../clarity/content.php:91
+#: ../clarity/content.php:104 ../clarity/content.php:116
+#: ../obantu/older/content copy.php:43 ../spiritualized/content.php:57
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../clarity/functions.php:54
+msgid "Loading the next set of posts..."
+msgstr ""
+
+#: ../clarity/functions.php:55
+msgid "All posts loaded."
+msgstr ""
+
+#: ../clarity/functions.php:204
+msgid "Pages"
+msgstr ""
+
+#: ../clarity/functions.php:204
+msgid "Links"
+msgstr ""
+
+#: ../clarity/header.php:33
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../clarity/options.php:37 ../clarity-old/options.php:37
+#: ../obantu/options.php:37 ../obantu/options.php:54
+#: ../spiritualized/options.php:37 ../spiritualized/options.php:54
+msgid "Blue"
+msgstr ""
+
+#: ../clarity/options.php:38 ../clarity-old/options.php:38
+#: ../obantu/options.php:38 ../obantu/options.php:59
+#: ../spiritualized/options.php:38 ../spiritualized/options.php:59
+msgid "Red"
+msgstr ""
+
+#: ../clarity/options.php:39 ../clarity-old/options.php:39
+#: ../obantu/options.php:39 ../spiritualized/options.php:39
+msgid "Green"
+msgstr ""
+
+#: ../clarity/options.php:40 ../clarity-old/options.php:40
+#: ../obantu/options.php:56 ../spiritualized/options.php:56
+msgid "Black"
+msgstr ""
+
+#: ../clarity/options.php:41 ../clarity-old/options.php:41
+#: ../obantu/options.php:40 ../spiritualized/options.php:40
+msgid "Light"
+msgstr ""
+
+#: ../clarity/options.php:42 ../clarity-old/options.php:42
+#: ../obantu/options.php:60 ../spiritualized/options.php:60
+msgid "Orange"
+msgstr ""
+
+#: ../clarity/options.php:47 ../clarity-old/options.php:47
+#: ../obantu/options.php:46 ../spiritualized/options.php:46
+msgid "Horizontal Push"
+msgstr ""
+
+#: ../clarity/options.php:48 ../clarity-old/options.php:48
+#: ../obantu/options.php:47 ../spiritualized/options.php:47
+msgid "Fade"
+msgstr ""
+
+#: ../clarity/options.php:49 ../clarity-old/options.php:49
+#: ../obantu/options.php:48 ../spiritualized/options.php:48
+msgid "Horizontal Slide"
+msgstr ""
+
+#: ../clarity/options.php:50 ../clarity-old/options.php:50
+#: ../obantu/options.php:49 ../spiritualized/options.php:49
+msgid "Vertical Slide"
+msgstr ""
+
+#: ../clarity/options.php:55 ../clarity-old/options.php:55
+#: ../obantu/options.php:67 ../spiritualized/options.php:67
+msgid "French Toast"
+msgstr ""
+
+#: ../clarity/options.php:56 ../clarity-old/options.php:56
+#: ../obantu/options.php:68 ../spiritualized/options.php:68
+msgid "Pancake"
+msgstr ""
+
+#: ../clarity/options.php:57 ../clarity-old/options.php:57
+#: ../obantu/options.php:69 ../spiritualized/options.php:69
+msgid "Omelette"
+msgstr ""
+
+#: ../clarity/options.php:58 ../clarity-old/options.php:58
+#: ../obantu/options.php:70 ../spiritualized/options.php:70
+msgid "Crepe"
+msgstr ""
+
+#: ../clarity/options.php:59 ../clarity-old/options.php:59
+#: ../obantu/options.php:71 ../spiritualized/options.php:71
+msgid "Waffle"
+msgstr ""
+
+#: ../clarity/options.php:127 ../clarity-old/options.php:127
+msgid "Layout"
+msgstr ""
+
+#: ../clarity/options.php:131
+msgid "Welcome to Clarity!"
+msgstr ""
+
+#: ../clarity/options.php:132
+msgid ""
+"<p>Firstly, thank you for using <a href=\"http://captaintheme.com/themes/"
+"clarity/\">Clartiy</a>!</p><p>If you ever are in need of support, please "
+"post in the <a href=\"http://wordpress.org/tags/clarity?forum_id=5#postform"
+"\">Clarity Wordpress.org Support Forum</a>.</p>"
+msgstr ""
+
+#: ../clarity/options.php:136
+msgid "Credits"
+msgstr ""
+
+#: ../clarity/options.php:137
+msgid ""
+"<p>This theme is built upon a modified version of <a href=\"http://"
+"foundation.zurb.com/\">Foundation</a> by ZURB.</p><p>The \"likes\" "
+"functionaity of the theme is made possible through a slightly modified "
+"version of <a href=\"http://www.themezilla.com/plugins/zillalikes/"
+"\">ZillaLikes</a> by ThemeZilla.</p>"
+msgstr ""
+
+#: ../clarity/options.php:141 ../clarity-old/options.php:171
+#: ../obantu/options.php:169 ../spiritualized/options.php:155
+msgid "Footer Text"
+msgstr ""
+
+#: ../clarity/options.php:142
+msgid "If you enter some text here, it will replace the default footer text."
+msgstr ""
+
+#: ../clarity/options.php:156 ../clarity-old/options.php:186
+msgid "Style / Design"
+msgstr ""
+
+#: ../clarity/options.php:160 ../clarity-old/options.php:201
+#: ../obantu/options.php:246 ../spiritualized/options.php:232
+msgid "Primary Theme Color/Accent"
+msgstr ""
+
+#: ../clarity/options.php:161 ../clarity-old/options.php:202
+msgid ""
+"This color will determine the color of elements such as Menu Links and Title "
+"Links."
+msgstr ""
+
+#: ../clarity/options.php:167 ../clarity-old/options.php:208
+#: ../obantu/options.php:253 ../spiritualized/options.php:239
+msgid "Secondary Theme Color/Accent"
+msgstr ""
+
+#: ../clarity/options.php:168 ../clarity-old/options.php:209
+msgid ""
+"This color will compliment the primary theme color chosen above, so should "
+"be quite similar and probably a little darker."
+msgstr ""
+
+#: ../clarity/options.php:175
+msgid ""
+"<p>The site logo will appear centered in the site's header. If you don't "
+"upload an image directly below, it will display the site's title."
+msgstr ""
+
+#: ../clarity/options.php:179 ../clarity-old/options.php:220
+#: ../obantu/options.php:181 ../spiritualized/options.php:167
+msgid "Site Logo"
+msgstr ""
+
+#: ../clarity/options.php:180
+msgid ""
+"Either upload your site's logo or paste the URL for it here. You should use "
+"an image that has a transparent background and is a PNG, or match the "
+"background color of the image to the header background color. Insert the "
+"<em>Site Logo Size</em> image."
+msgstr ""
+
+#: ../clarity/options.php:185 ../clarity-old/options.php:226
+#: ../obantu/options.php:187 ../spiritualized/options.php:173
+msgid "Retina Site Logo"
+msgstr ""
+
+#: ../clarity/options.php:186
+msgid ""
+"If you'd like to upload a <a href=\"http://coding.smashingmagazine."
+"com/2012/08/20/towards-retina-web/\">Retina</a> site logo, either upload it "
+"here or paste the URL. It should be double the width/height of your standard "
+"logo. This is not necessary and just leave it if you are confused. Insert "
+"the <em>Retina Logo Size</em> image."
+msgstr ""
+
+#: ../clarity/options.php:191 ../clarity-old/options.php:253
+#: ../obantu/options.php:260 ../spiritualized/options.php:246
+msgid "Custom CSS"
+msgstr ""
+
+#: ../clarity/options.php:192 ../clarity-old/options.php:254
+#: ../obantu/options.php:261 ../spiritualized/options.php:247
+msgid ""
+"Put any custom CSS you want in here. Please make sure it's all valid as it "
+"may break the theme otherwise."
+msgstr ""
+
+#: ../clarity/options.php:200 ../clarity-old/options.php:313
+#: ../obantu/options.php:394 ../spiritualized/options.php:380
+msgid "Social Media"
+msgstr ""
+
+#: ../clarity/options.php:204
+msgid ""
+"<p>To activate social media icons in the header, just add the corresponding "
+"links below.</p><p><strong>Only</strong> those that have been filled in will "
+"be displayed.</p><p>Icons courtesy of <a href=\"http://www.webdesignerdepot."
+"com/\">Webdesigner Depot</a>.</p>"
+msgstr ""
+
+#: ../clarity/options.php:208 ../clarity-old/options.php:321
+#: ../obantu/options.php:402 ../spiritualized/options.php:388
+msgid "Facebook Page/Profile URL"
+msgstr ""
+
+#: ../clarity/options.php:209 ../clarity-old/options.php:322
+#: ../obantu/options.php:403 ../spiritualized/options.php:389
+msgid "Enter the link for your Facebook Page/Profile."
+msgstr ""
+
+#: ../clarity/options.php:215 ../clarity-old/options.php:328
+#: ../obantu/options.php:409 ../spiritualized/options.php:395
+msgid "Twitter URL"
+msgstr ""
+
+#: ../clarity/options.php:216 ../clarity-old/options.php:329
+#: ../obantu/options.php:410 ../spiritualized/options.php:396
+msgid "Enter the link for your Twiiter."
+msgstr ""
+
+#: ../clarity/options.php:222 ../clarity-old/options.php:335
+#: ../obantu/options.php:416 ../spiritualized/options.php:402
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../clarity/options.php:223 ../clarity-old/options.php:336
+#: ../obantu/options.php:417 ../spiritualized/options.php:403
+msgid "Enter the link for your Tumblr."
+msgstr ""
+
+#: ../clarity/options.php:229
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../clarity/options.php:230
+msgid "Enter the link for your Pinterest Profile."
+msgstr ""
+
+#: ../clarity/options.php:236 ../clarity-old/options.php:349
+#: ../obantu/options.php:430 ../spiritualized/options.php:416
+msgid "YouTube URL"
+msgstr ""
+
+#: ../clarity/options.php:237 ../clarity-old/options.php:350
+#: ../obantu/options.php:431 ../spiritualized/options.php:417
+msgid "Enter the link for your YouTube."
+msgstr ""
+
+#: ../clarity/options.php:243 ../clarity-old/options.php:356
+#: ../obantu/options.php:437 ../spiritualized/options.php:423
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../clarity/options.php:244 ../clarity-old/options.php:357
+#: ../obantu/options.php:438 ../spiritualized/options.php:424
+msgid "Enter the link for your Vimeo."
+msgstr ""
+
+#: ../clarity/options.php:250 ../clarity-old/options.php:363
+#: ../obantu/options.php:444 ../spiritualized/options.php:430
+msgid "Flickr URL"
+msgstr ""
+
+#: ../clarity/options.php:251 ../clarity-old/options.php:364
+#: ../obantu/options.php:445 ../spiritualized/options.php:431
+msgid "Enter the link for your Flickr."
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:5 ../obantu/inc/sidebars.php:10
+#: ../spiritualized/inc/sidebars.php:5
+msgid "Sidebar"
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:7
+msgid "Place widgets here to be displayed in the footer sidebar."
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:105 ../obantu/inc/template-tags.php:96
+#: ../spiritualized/inc/template-tags.php:90
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:115 ../clarity-old/content-page.php:15
+#: ../obantu/content-page.php:18 ../obantu/content-single.php:68
+#: ../obantu/image.php:44 ../obantu/image.php:105 ../obantu/older/content
+#: copy.php:77 ../spiritualized/content-page.php:18
+#: ../spiritualized/content-single.php:68 ../spiritualized/content.php:93
+#: ../spiritualized/image.php:44 ../spiritualized/image.php:105
+msgid "Edit"
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:146
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:148 ../obantu/comments.php:114
+#: ../spiritualized/comments.php:114
+msgid "Name"
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:150 ../obantu/comments.php:119
+#: ../obantu/template-profile-page.php:69 ../spiritualized/comments.php:119
+#: ../spiritualized/template-profile-page.php:69
+msgid "Email"
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:152 ../obantu/comments.php:124
+#: ../spiritualized/comments.php:124
+msgid "Website"
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:157
+msgid "Add Your Comment"
+msgstr ""
+
+#: ../clarity/inc/theme-setup.php:161
+msgid "Your email address will <strong>not</strong> be published."
+msgstr ""
+
+#: ../clarity/inc/timeago.php:12 ../clarity-old/inc/timeago.php:12
+msgid "year"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:12 ../clarity-old/inc/timeago.php:12
+msgid "years"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:13 ../clarity-old/inc/timeago.php:13
+msgid "month"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:13 ../clarity-old/inc/timeago.php:13
+msgid "months"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:14 ../clarity-old/inc/timeago.php:14
+msgid "week"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:14 ../clarity-old/inc/timeago.php:14
+msgid "weeks"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:15 ../clarity-old/inc/timeago.php:15
+msgid "day"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:15 ../clarity-old/inc/timeago.php:15
+msgid "days"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:16 ../clarity-old/inc/timeago.php:16
+msgid "hour"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:16 ../clarity-old/inc/timeago.php:16
+msgid "hours"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:17 ../clarity-old/inc/timeago.php:17
+msgid "minute"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:17 ../clarity-old/inc/timeago.php:17
+msgid "minutes"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:18 ../clarity-old/inc/timeago.php:18
+msgid "second"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:18 ../clarity/inc/timeago.php:58
+#: ../clarity-old/inc/timeago.php:18 ../clarity-old/inc/timeago.php:58
+msgid "seconds"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:35 ../clarity-old/inc/timeago.php:35
+msgid "sometime"
+msgstr ""
+
+#: ../clarity/inc/timeago.php:61 ../clarity-old/inc/timeago.php:61
+msgid " ago"
+msgstr ""
+
+#: ../clarity/inc/zilla-likes.php:151
+msgid "Like this"
+msgstr ""
+
+#: ../clarity/inc/zilla-likes.php:154
+msgid "You already like this"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-framework.php:170
+#: ../clarity-old/inc/theme-options/options-framework.php:170
+#: ../obantu/inc/theme-options/options-framework.php:170
+#: ../spiritualized/inc/theme-options/options-framework.php:170
+msgid "Theme Options"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-framework.php:238
+#: ../clarity-old/inc/theme-options/options-framework.php:238
+#: ../obantu/inc/theme-options/options-framework.php:238
+#: ../spiritualized/inc/theme-options/options-framework.php:238
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-framework.php:270
+#: ../clarity-old/inc/theme-options/options-framework.php:270
+#: ../obantu/inc/theme-options/options-framework.php:270
+#: ../spiritualized/inc/theme-options/options-framework.php:270
+msgid "Default options restored."
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-framework.php:313
+#: ../clarity-old/inc/theme-options/options-framework.php:313
+#: ../obantu/inc/theme-options/options-framework.php:313
+#: ../spiritualized/inc/theme-options/options-framework.php:313
+msgid "Options saved."
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-framework.php:364
+#: ../clarity-old/inc/theme-options/options-framework.php:364
+msgid "DigiGit Theme Options"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-medialibrary-uploader.php:26
+#: ../clarity-old/inc/theme-options/options-medialibrary-uploader.php:26
+#: ../obantu/inc/theme-options/options-medialibrary-uploader.php:26
+#: ../spiritualized/inc/theme-options/options-medialibrary-uploader.php:26
+msgid "Theme Options Media"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-medialibrary-uploader.php:129
+#: ../clarity-old/inc/theme-options/options-medialibrary-uploader.php:129
+#: ../obantu/inc/theme-options/options-medialibrary-uploader.php:129
+#: ../spiritualized/inc/theme-options/options-medialibrary-uploader.php:129
+msgid "Upload"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-medialibrary-uploader.php:152
+#: ../clarity-old/inc/theme-options/options-medialibrary-uploader.php:152
+#: ../obantu/inc/theme-options/options-medialibrary-uploader.php:152
+#: ../spiritualized/inc/theme-options/options-medialibrary-uploader.php:152
+msgid "View File"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-medialibrary-uploader.php:289
+#: ../clarity-old/inc/theme-options/options-medialibrary-uploader.php:289
+#: ../obantu/inc/theme-options/options-medialibrary-uploader.php:289
+#: ../spiritualized/inc/theme-options/options-medialibrary-uploader.php:289
+msgid "Gallery"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-medialibrary-uploader.php:289
+#: ../clarity-old/inc/theme-options/options-medialibrary-uploader.php:289
+#: ../obantu/inc/theme-options/options-medialibrary-uploader.php:289
+#: ../spiritualized/inc/theme-options/options-medialibrary-uploader.php:289
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:232
+#: ../clarity-old/inc/theme-options/options-sanitize.php:232
+#: ../obantu/inc/theme-options/options-sanitize.php:232
+#: ../spiritualized/inc/theme-options/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:233
+#: ../clarity-old/inc/theme-options/options-sanitize.php:233
+#: ../obantu/inc/theme-options/options-sanitize.php:233
+#: ../spiritualized/inc/theme-options/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:234
+#: ../clarity-old/inc/theme-options/options-sanitize.php:234
+#: ../obantu/inc/theme-options/options-sanitize.php:234
+#: ../spiritualized/inc/theme-options/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:235
+#: ../clarity-old/inc/theme-options/options-sanitize.php:235
+#: ../obantu/inc/theme-options/options-sanitize.php:235
+#: ../spiritualized/inc/theme-options/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:248
+#: ../clarity-old/inc/theme-options/options-sanitize.php:248
+#: ../obantu/inc/theme-options/options-sanitize.php:248
+#: ../spiritualized/inc/theme-options/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:249
+#: ../clarity-old/inc/theme-options/options-sanitize.php:249
+#: ../obantu/inc/theme-options/options-sanitize.php:249
+#: ../spiritualized/inc/theme-options/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:250
+#: ../clarity-old/inc/theme-options/options-sanitize.php:250
+#: ../obantu/inc/theme-options/options-sanitize.php:250
+#: ../spiritualized/inc/theme-options/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:251
+#: ../clarity-old/inc/theme-options/options-sanitize.php:251
+#: ../obantu/inc/theme-options/options-sanitize.php:251
+#: ../spiritualized/inc/theme-options/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:252
+#: ../clarity-old/inc/theme-options/options-sanitize.php:252
+#: ../obantu/inc/theme-options/options-sanitize.php:252
+#: ../spiritualized/inc/theme-options/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:253
+#: ../clarity-old/inc/theme-options/options-sanitize.php:253
+#: ../obantu/inc/theme-options/options-sanitize.php:253
+#: ../spiritualized/inc/theme-options/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:254
+#: ../clarity-old/inc/theme-options/options-sanitize.php:254
+#: ../obantu/inc/theme-options/options-sanitize.php:254
+#: ../spiritualized/inc/theme-options/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:255
+#: ../clarity-old/inc/theme-options/options-sanitize.php:255
+#: ../obantu/inc/theme-options/options-sanitize.php:255
+#: ../spiritualized/inc/theme-options/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:256
+#: ../clarity-old/inc/theme-options/options-sanitize.php:256
+#: ../obantu/inc/theme-options/options-sanitize.php:256
+#: ../spiritualized/inc/theme-options/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:269
+#: ../clarity-old/inc/theme-options/options-sanitize.php:269
+#: ../obantu/inc/theme-options/options-sanitize.php:269
+#: ../spiritualized/inc/theme-options/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:270
+#: ../clarity-old/inc/theme-options/options-sanitize.php:270
+#: ../obantu/inc/theme-options/options-sanitize.php:270
+#: ../spiritualized/inc/theme-options/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:344
+#: ../clarity-old/inc/theme-options/options-sanitize.php:344
+#: ../obantu/inc/theme-options/options-sanitize.php:344
+#: ../spiritualized/inc/theme-options/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:345
+#: ../clarity-old/inc/theme-options/options-sanitize.php:345
+#: ../obantu/inc/theme-options/options-sanitize.php:345
+#: ../spiritualized/inc/theme-options/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:346
+#: ../clarity-old/inc/theme-options/options-sanitize.php:346
+#: ../obantu/inc/theme-options/options-sanitize.php:346
+#: ../spiritualized/inc/theme-options/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: ../clarity/inc/theme-options/options-sanitize.php:347
+#: ../clarity-old/inc/theme-options/options-sanitize.php:347
+#: ../obantu/inc/theme-options/options-sanitize.php:347
+#: ../spiritualized/inc/theme-options/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: ../clarity-old/404.php:17 ../obantu/404.php:17 ../spiritualized/404.php:17
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: ../clarity-old/archive.php:21
+#, php-format
+msgid "Category Archives / %s"
+msgstr ""
+
+#: ../clarity-old/archive.php:24
+#, php-format
+msgid "Tag Archives / %s"
+msgstr ""
+
+#: ../clarity-old/archive.php:31
+#, php-format
+msgid "Author / %s"
+msgstr ""
+
+#: ../clarity-old/archive.php:39
+#, php-format
+msgid "Daily Archives / %s"
+msgstr ""
+
+#: ../clarity-old/archive.php:42
+#, php-format
+msgid "Monthly Archives / %s"
+msgstr ""
+
+#: ../clarity-old/archive.php:45
+#, php-format
+msgid "Yearly Archives / %s"
+msgstr ""
+
+#: ../clarity-old/content-page.php:14 ../obantu/content-homepage.php:17
+#: ../obantu/content-page.php:17 ../obantu/content-single-portfolio.php:29
+#: ../obantu/content-single.php:31 ../obantu/image.php:91
+#: ../obantu/older/content copy.php:44
+#: ../spiritualized/content-homepage.php:17
+#: ../spiritualized/content-page.php:17 ../spiritualized/content-single.php:31
+#: ../spiritualized/content.php:58 ../spiritualized/image.php:91
+msgid "Pages:"
+msgstr ""
+
+#: ../clarity-old/content.php:55 ../obantu/content-single.php:36
+#: ../obantu/content.php:34 ../obantu/content.php:44 ../obantu/older/content
+#: copy.php:52 copy.php:62 ../spiritualized/content-single.php:36
+#: ../spiritualized/content.php:68 ../spiritualized/content.php:78
+msgid ", "
+msgstr ""
+
+#: ../clarity-old/content.php:59 ../obantu/content.php:38
+#: ../obantu/older/content copy.php:56 ../spiritualized/content.php:72
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../clarity-old/footer.php:137 ../obantu/footer.php:101
+#: ../spiritualized/footer.php:135
+msgid "Your Downloads"
+msgstr ""
+
+#: ../clarity-old/footer.php:139 ../obantu/footer.php:103
+#: ../spiritualized/footer.php:137
+msgid "Want more details? See your"
+msgstr ""
+
+#: ../clarity-old/footer.php:141 ../obantu/footer.php:105
+#: ../spiritualized/footer.php:139
+msgid "Purchase History"
+msgstr ""
+
+#: ../clarity-old/footer.php:144 ../obantu/footer.php:108
+#: ../spiritualized/footer.php:142
+msgid "Your Purchase History"
+msgstr ""
+
+#: ../clarity-old/footer.php:148 ../clarity-old/footer.php:163
+#: ../obantu/footer.php:112 ../obantu/footer.php:127
+#: ../obantu/template-login-page.php:15
+#: ../obantu/template-register-page.php:18 ../obantu/inc/theme-setup.php:257
+#: ../spiritualized/footer.php:146 ../spiritualized/footer.php:161
+#: ../spiritualized/template-login-page.php:15
+#: ../spiritualized/template-register-page.php:18
+#: ../spiritualized/inc/theme-setup.php:468
+msgid "Log In"
+msgstr ""
+
+#: ../clarity-old/footer.php:150 ../obantu/footer.php:114
+#: ../obantu/template-login-page.php:18 ../spiritualized/footer.php:148
+#: ../spiritualized/template-login-page.php:18
+msgid "Need an account?"
+msgstr ""
+
+#: ../clarity-old/footer.php:152 ../clarity-old/footer.php:159
+#: ../obantu/footer.php:116 ../obantu/footer.php:123
+#: ../obantu/template-login-page.php:18
+#: ../obantu/template-register-page.php:15 ../obantu/inc/theme-setup.php:260
+#: ../spiritualized/footer.php:150 ../spiritualized/footer.php:157
+#: ../spiritualized/template-login-page.php:18
+#: ../spiritualized/template-register-page.php:15
+#: ../spiritualized/inc/theme-setup.php:471
+msgid "Register"
+msgstr ""
+
+#: ../clarity-old/footer.php:154 ../obantu/footer.php:118
+#: ../spiritualized/footer.php:152
+msgid "Forgot your password?"
+msgstr ""
+
+#: ../clarity-old/footer.php:156 ../obantu/footer.php:120
+#: ../spiritualized/footer.php:154
+msgid "Recover"
+msgstr ""
+
+#: ../clarity-old/footer.php:161 ../obantu/footer.php:125
+#: ../obantu/template-register-page.php:18 ../spiritualized/footer.php:159
+#: ../spiritualized/template-register-page.php:18
+msgid "Already registered?"
+msgstr ""
+
+#: ../clarity-old/options.php:131
+msgid "Welcome to DigiGit!"
+msgstr ""
+
+#: ../clarity-old/options.php:132
+msgid ""
+"<p>Firstly, thank you for using <a href=\"http://captaintheme.com/themes/"
+"digigit/\">DigiGit</a>!</p><p>If you ever are in need of support, please "
+"take a look at <a href=\"http://support.captaintheme.com/\">Captain Theme "
+"Support</a>. You should also check <a href=\"http://captaintheme.com/docs/"
+"\">Captain Theme Documentation</a> and <a href=\"http://captaintheme.com/"
+"docs/digigit-documentation/\">DigiGit Documentation</a> to see if your "
+"question has been answered before.</p>"
+msgstr ""
+
+#: ../clarity-old/options.php:136 ../obantu/options.php:148
+#: ../spiritualized/options.php:148
+msgid "Hide Profile/Account Buttons"
+msgstr ""
+
+#: ../clarity-old/options.php:137
+msgid ""
+"Tick the checkbox if you'd like to hide the <em>Log In</em>, <em>Register</"
+"em>, <em>Your Profile</em> and <em>Downloads<em> boxes in the store's header."
+msgstr ""
+
+#: ../clarity-old/options.php:143
+msgid "3 Downloads Per Row"
+msgstr ""
+
+#: ../clarity-old/options.php:144
+msgid ""
+"Tick the checkbox if you'd like to have 3 downloads per row in the store "
+"instead of the default 2."
+msgstr ""
+
+#: ../clarity-old/options.php:150 ../obantu/options.php:155
+msgid "Show Sidebar on Mobiles"
+msgstr ""
+
+#: ../clarity-old/options.php:151 ../obantu/options.php:156
+msgid ""
+"As the theme is responsive, the sidebar must be displayed below the main "
+"content. By default it is hidden, but you can tick the checkbox if you'd "
+"like show the sidebar at the bottom of each page before the footer (when on "
+"mobiles)."
+msgstr ""
+
+#: ../clarity-old/options.php:157
+msgid "Home Page Template Text #1"
+msgstr ""
+
+#: ../clarity-old/options.php:158
+msgid ""
+"If you enter some text here it will be displayed on the home page templates. "
+"If left blank, nothing will appear."
+msgstr ""
+
+#: ../clarity-old/options.php:164
+msgid "Home Page Template Text #1 - LINK"
+msgstr ""
+
+#: ../clarity-old/options.php:165
+msgid ""
+"If you'd like the text box on the home page template to be a link, enter "
+"that link here."
+msgstr ""
+
+#: ../clarity-old/options.php:172 ../obantu/options.php:170
+#: ../spiritualized/options.php:156
+msgid ""
+"If you enter some text here, it will display in the footer <strong>instead</"
+"strong> of the footer menu."
+msgstr ""
+
+#: ../clarity-old/options.php:192
+msgid "Color Bar"
+msgstr ""
+
+#: ../clarity-old/options.php:193
+msgid ""
+"This is the bar shown below store/download items and blog posts, as well as "
+"the color used for certain buttons/elements. You can change the color of it "
+"here."
+msgstr ""
+
+#: ../clarity-old/options.php:216 ../obantu/options.php:177
+#: ../spiritualized/options.php:163
+msgid ""
+"<p>The site logo will appear in the header on the left as the site's main "
+"image. If you don't upload an image directly below, it will display the "
+"site's title. You can style the text title below."
+msgstr ""
+
+#: ../clarity-old/options.php:221 ../obantu/options.php:182
+#: ../spiritualized/options.php:168
+msgid ""
+"Either upload your site's logo or paste the URL for it here. You should use "
+"an image that has a transparent background and is a PNG, or match the "
+"background color of the image to the header background color. The ideal size "
+"is <strong>250px+ x 60px</strong>."
+msgstr ""
+
+#: ../clarity-old/options.php:227 ../obantu/options.php:188
+#: ../spiritualized/options.php:174
+msgid ""
+"If you'd like to upload a <a href=\"http://coding.smashingmagazine."
+"com/2012/08/20/towards-retina-web/\">Retina</a> site logo, either upload it "
+"here or paste the URL. It should be double the width/height of your standard "
+"logo. This is not necessary and just leave it if you are confused."
+msgstr ""
+
+#: ../clarity-old/options.php:232 ../obantu/options.php:193
+#: ../spiritualized/options.php:179
+msgid "Header Title Style"
+msgstr ""
+
+#: ../clarity-old/options.php:233
+msgid ""
+"If you haven't uploaded a site logo above, this will allow you to alter the "
+"font/size/style of the header's main title."
+msgstr ""
+
+#: ../clarity-old/options.php:240 ../obantu/options.php:201
+#: ../spiritualized/options.php:187
+msgid "Favicon"
+msgstr ""
+
+#: ../clarity-old/options.php:241
+msgid ""
+"Either upload your .ico favicon or paste the URL for it here. You can use a "
+"service like <a href=\"http://favicon.cc\">favicon.cc</a> to create it. I'd "
+"recommend using a <strong>plugin</strong> to upload your favicons though."
+msgstr ""
+
+#: ../clarity-old/options.php:246 ../obantu/options.php:207
+#: ../spiritualized/options.php:193
+msgid "Retina Favicon"
+msgstr ""
+
+#: ../clarity-old/options.php:247 ../obantu/options.php:208
+#: ../spiritualized/options.php:194
+msgid ""
+"If you'd like to upload a <a href=\"http://coding.smashingmagazine."
+"com/2012/08/20/towards-retina-web/\">Retina</a> favicon, either upload it "
+"here or paste the URL. It should be 32px x 32px and a .ico file. This is not "
+"necessary and just leave it if you are confused."
+msgstr ""
+
+#: ../clarity-old/options.php:262
+msgid "Slider"
+msgstr ""
+
+#: ../clarity-old/options.php:266 ../obantu/options.php:347
+#: ../spiritualized/options.php:333
+msgid "Slider Animation"
+msgstr ""
+
+#: ../clarity-old/options.php:267 ../obantu/options.php:348
+#: ../spiritualized/options.php:334
+msgid "Select the type of animation you'd like the feature slider to use."
+msgstr ""
+
+#: ../clarity-old/options.php:275 ../obantu/options.php:356
+#: ../spiritualized/options.php:342
+msgid "Slider Speed"
+msgstr ""
+
+#: ../clarity-old/options.php:276 ../obantu/options.php:357
+#: ../spiritualized/options.php:343
+msgid ""
+"Enter the time (ms) you want each slide to stay on for. 1000 = 1 second. "
+"Default is 4500."
+msgstr ""
+
+#: ../clarity-old/options.php:282 ../obantu/options.php:363
+#: ../spiritualized/options.php:349
+msgid "Slider Bullets"
+msgstr ""
+
+#: ../clarity-old/options.php:283 ../obantu/options.php:364
+#: ../spiritualized/options.php:350
+msgid ""
+"Tick the checkbox if you'd like to have bullets beneath the slider. If you "
+"don't know what I'm talking about, try it out!"
+msgstr ""
+
+#: ../clarity-old/options.php:289 ../obantu/options.php:370
+#: ../spiritualized/options.php:356
+msgid "Show Slider Timer Animation"
+msgstr ""
+
+#: ../clarity-old/options.php:290 ../obantu/options.php:371
+#: ../spiritualized/options.php:357
+msgid ""
+"Tick the checkbox if you'd like to <strong>show</strong> the slider's timer "
+"animation that appears in the top-right. It's pretty nice!"
+msgstr ""
+
+#: ../clarity-old/options.php:296 ../obantu/options.php:377
+#: ../spiritualized/options.php:363
+msgid "Hide Navigation Arrows"
+msgstr ""
+
+#: ../clarity-old/options.php:297 ../obantu/options.php:378
+#: ../spiritualized/options.php:364
+msgid ""
+"Tick the checkbox if you'd like to <strong>hide</strong> the navigation "
+"arrows that allow you to move between slides manually."
+msgstr ""
+
+#: ../clarity-old/options.php:303 ../obantu/options.php:384
+#: ../spiritualized/options.php:370
+msgid "Turn of Slider's Auto-Change Slides"
+msgstr ""
+
+#: ../clarity-old/options.php:304 ../obantu/options.php:385
+#: ../spiritualized/options.php:371
+msgid ""
+"Tick the checkbox if you want to <b>stop</b> the slider from automatically "
+"changing slides on a timer. Users will have to use the navigation arrows or "
+"bullets to move between slides if the checkbox is ticked."
+msgstr ""
+
+#: ../clarity-old/options.php:317 ../obantu/options.php:398
+#: ../spiritualized/options.php:384
+msgid ""
+"<p>To activate social media icons in the bottom right of the footer, just "
+"add the corresponding links below.</p><p><strong>Only</strong> those that "
+"have been filled in will be displayed in the footer.</p><p>Icons courtesy of "
+"<a href=\"http://www.webdesignerdepot.com/\">Webdesigner Depot</a>.</p>"
+msgstr ""
+
+#: ../clarity-old/options.php:342 ../obantu/options.php:423
+#: ../spiritualized/options.php:409
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../clarity-old/options.php:343 ../obantu/options.php:424
+#: ../spiritualized/options.php:410
+msgid "Enter the link for your LinkedIn."
+msgstr ""
+
+#: ../clarity-old/options.php:370 ../obantu/options.php:451
+#: ../spiritualized/options.php:437
+msgid "Hide RSS Feed Icon"
+msgstr ""
+
+#: ../clarity-old/options.php:371 ../obantu/options.php:452
+#: ../spiritualized/options.php:438
+msgid "Tick the checkbox if you'd like to hide the <em>RSS Feed Icon</em>."
+msgstr ""
+
+#: ../clarity-old/sidebar.php:21 ../obantu/sidebar-two.php:23
+#: ../obantu/sidebar.php:21 ../spiritualized/sidebar-store.php:32
+#: ../spiritualized/sidebar.php:29
+msgid "Recent Posts"
+msgstr ""
+
+#: ../clarity-old/sidebar.php:39 ../obantu/sidebar-two.php:33
+#: ../obantu/sidebar.php:39 ../spiritualized/sidebar-store.php:42
+#: ../spiritualized/sidebar.php:47
+msgid "Tags"
+msgstr ""
+
+#: ../clarity-old/sidebar.php:49 ../obantu/sidebar-two.php:44
+#: ../obantu/sidebar.php:49 ../spiritualized/sidebar-store.php:53
+#: ../spiritualized/sidebar.php:57
+msgid "Meta"
+msgstr ""
+
+#: ../obantu/comments.php:67 ../spiritualized/comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: ../obantu/comments.php:82 ../spiritualized/comments.php:82
+msgid "Leave a Review"
+msgstr ""
+
+#: ../obantu/comments.php:85 ../spiritualized/comments.php:85
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../obantu/comments.php:107 ../spiritualized/comments.php:107
+msgid "Logged in as"
+msgstr ""
+
+#: ../obantu/comments.php:107 ../spiritualized/comments.php:107
+msgid "Log Out"
+msgstr ""
+
+#: ../obantu/content-single.php:44 ../spiritualized/content-single.php:44
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../obantu/content-single.php:46 ../spiritualized/content-single.php:46
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../obantu/content-single.php:52 ../spiritualized/content-single.php:52
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../obantu/content-single.php:54 ../spiritualized/content-single.php:54
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../obantu/content.php:49 ../obantu/older/content copy.php:67
+#: ../spiritualized/content.php:83
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../obantu/functions.php:95 ../spiritualized/functions.php:160
+msgid "Primary Menu"
+msgstr ""
+
+#: ../obantu/functions.php:96 ../spiritualized/functions.php:161
+msgid "Footer Menu"
+msgstr ""
+
+#: ../obantu/functions.php:342 ../obantu/functions.php:364
+#: ../obantu/functions.php:550 ../obantu/functions.php:572
+#: ../obantu/inc/portfolio.php:9 ../obantu/inc/slider.php:9
+#: ../spiritualized/functions.php:403 ../spiritualized/functions.php:425
+#: ../spiritualized/inc/slider.php:9
+msgid "Add New"
+msgstr ""
+
+#: ../obantu/image.php:25 ../spiritualized/image.php:25
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../obantu/image.php:26 ../spiritualized/image.php:26
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../obantu/image.php:34 ../spiritualized/image.php:34
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../obantu/image.php:97 ../spiritualized/image.php:97
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../obantu/image.php:99 ../spiritualized/image.php:99
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: ../obantu/image.php:101 ../spiritualized/image.php:101
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../obantu/image.php:103 ../spiritualized/image.php:103
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../obantu/no-results.php:12 ../spiritualized/no-results.php:12
+#: ../spiritualized/taxonomy-download_category.php:37
+#: ../spiritualized/taxonomy-download_tag.php:37
+msgid "Nothing Found"
+msgstr ""
+
+#: ../obantu/no-results.php:18 ../spiritualized/no-results.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../obantu/no-results.php:22 ../spiritualized/no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../obantu/no-results.php:27 ../spiritualized/no-results.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../obantu/options.php:41 ../spiritualized/options.php:41
+msgid "Dark"
+msgstr ""
+
+#: ../obantu/options.php:55 ../spiritualized/options.php:55
+msgid "Dark Blue"
+msgstr ""
+
+#: ../obantu/options.php:57 ../spiritualized/options.php:57
+msgid "Light Grey"
+msgstr ""
+
+#: ../obantu/options.php:58 ../spiritualized/options.php:58
+msgid "Dark Grey"
+msgstr ""
+
+#: ../obantu/options.php:61 ../spiritualized/options.php:61
+msgid "Purple"
+msgstr ""
+
+#: ../obantu/options.php:62 ../spiritualized/options.php:62
+msgid "Green / Sea Foam"
+msgstr ""
+
+#: ../obantu/options.php:139 ../spiritualized/options.php:139
+msgid "Basic Settings"
+msgstr ""
+
+#: ../obantu/options.php:143 ../spiritualized/options.php:143
+msgid "Welcome to Spiritualized!"
+msgstr ""
+
+#: ../obantu/options.php:144
+msgid ""
+"<p>Firstly, thank you for using <a href=\"http://captaintheme.com/theme/"
+"spirit/\">Spirit</a>!</p><p>If you ever are in need of support, please take "
+"a look in the <a href=\"http://captaintheme.com/support/\">Support Forum</"
+"a>. You should also check <a href=\"http://captaintheme.com/docs/\">Captain "
+"Theme Documentation</a> and <a href=\"http://captaintheme.com/docs/"
+"spiritualized-documentation/\">Spiritualized Documentation</a> to see if "
+"your question has been answered before.</p>"
+msgstr ""
+
+#: ../obantu/options.php:149 ../spiritualized/options.php:149
+msgid ""
+"Tick the checkbox if you'd like to hide the <em>Log In</em>, <em>Register</"
+"em>, <em>Your Profile</em> and <em>Your Orders<em> boxes in the sidebar."
+msgstr ""
+
+#: ../obantu/options.php:162
+msgid "Open All Accordions on Posts Page / Archive"
+msgstr ""
+
+#: ../obantu/options.php:163
+msgid ""
+"Tick the checkbox if you'd like to have all accordions that display posts "
+"open automatically."
+msgstr ""
+
+#: ../obantu/options.php:194 ../spiritualized/options.php:180
+msgid "If you aren't using a <a href=\""
+msgstr ""
+
+#: ../obantu/options.php:202 ../spiritualized/options.php:188
+msgid ""
+"Either upload your .ico favicon or paste the URL for it here. You can use a "
+"service like <a href=\"http://favicon.cc\">favicon.cc</a> to create it."
+msgstr ""
+
+#: ../obantu/options.php:221 ../spiritualized/options.php:214
+msgid "Style Settings"
+msgstr ""
+
+#: ../obantu/options.php:225 ../spiritualized/options.php:218
+msgid "Header Background Color"
+msgstr ""
+
+#: ../obantu/options.php:226 ../spiritualized/options.php:219
+msgid ""
+"Select the color for the header's background. If you'd like to make the "
+"background an image, visit the <a href=\""
+msgstr ""
+
+#: ../obantu/options.php:232 ../spiritualized/options.php:225
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: ../obantu/options.php:233 ../spiritualized/options.php:226
+msgid ""
+"Select the color for the header's bottom border. If you don't want one, just "
+"make it white (#fff)."
+msgstr ""
+
+#: ../obantu/options.php:239
+msgid "Header Links Color"
+msgstr ""
+
+#: ../obantu/options.php:240
+msgid ""
+"Select the color for the links in header. It will be the color of the site "
+"title (if no logo has been uploaded) and of the top-level menu items."
+msgstr ""
+
+#: ../obantu/options.php:247 ../spiritualized/options.php:233
+msgid ""
+"This color will determine the color of most elements in Spiritualized, such "
+"as buttons, certain links, etc."
+msgstr ""
+
+#: ../obantu/options.php:254 ../spiritualized/options.php:240
+msgid ""
+"This color will be for secondary elements, such as button hovers, borders, "
+"line-breaks, etc. It should be quite similar to the primary color."
+msgstr ""
+
+#: ../obantu/options.php:343 ../spiritualized/options.php:329
+msgid "Slider Settings"
+msgstr ""
+
+#: ../obantu/options.php:461
+msgid "New Settings"
+msgstr ""
+
+#: ../obantu/options.php:465
+msgid "Make Social Media Icons Colored"
+msgstr ""
+
+#: ../obantu/options.php:466
+msgid ""
+"Tick the checkbox if you'd like to <em>colorfy</em> the social media icons, "
+"as opposed to the standard black and white icons."
+msgstr ""
+
+#: ../obantu/search.php:32 ../obantu/store-search.php:30
+#: ../spiritualized/search.php:32 ../spiritualized/store-search.php:30
+#, php-format
+msgid "Your search results for: <em>%s</em>"
+msgstr ""
+
+#: ../obantu/searchform-downloads.php:12 ../obantu/searchform.php:14
+#: ../obantu/inc/theme-setup.php:231
+#: ../spiritualized/searchform-downloads.php:12
+#: ../spiritualized/searchform.php:12 ../spiritualized/inc/theme-setup.php:442
+msgid "Search"
+msgstr ""
+
+#: ../obantu/store-search.php:40 ../spiritualized/archive-download.php:34
+#: ../spiritualized/single-download.php:116
+#: ../spiritualized/store-search.php:40
+#: ../spiritualized/template-homepage-items.php:38
+#: ../spiritualized/template-homepage-store.php:36
+#: ../spiritualized/template-store-page.php:30
+msgid "Not Found"
+msgstr ""
+
+#: ../obantu/store-search.php:41 ../spiritualized/single-download.php:117
+#: ../spiritualized/store-search.php:41
+#: ../spiritualized/template-homepage-items.php:39
+#: ../spiritualized/template-homepage-store.php:37
+#: ../spiritualized/template-store-page.php:31
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: ../obantu/template-profile-page.php:40
+#: ../spiritualized/template-profile-page.php:40
+msgid "User Profile"
+msgstr ""
+
+#: ../obantu/template-profile-page.php:45
+#: ../spiritualized/template-profile-page.php:45
+msgid "Your profile has been updated."
+msgstr ""
+
+#: ../obantu/template-profile-page.php:57
+#: ../spiritualized/template-profile-page.php:57
+msgid "Username"
+msgstr ""
+
+#: ../obantu/template-profile-page.php:61 ../obantu/inc/login.php:100
+#: ../spiritualized/template-profile-page.php:61
+#: ../spiritualized/inc/login.php:100
+msgid "First Name"
+msgstr ""
+
+#: ../obantu/template-profile-page.php:65 ../obantu/inc/login.php:104
+#: ../spiritualized/template-profile-page.php:65
+#: ../spiritualized/inc/login.php:104
+msgid "Last Name"
+msgstr ""
+
+#: ../obantu/template-profile-page.php:79
+#: ../spiritualized/template-profile-page.php:79
+msgid "Password"
+msgstr ""
+
+#: ../obantu/template-profile-page.php:82
+#: ../spiritualized/template-profile-page.php:82
+msgid "Leave this field blank unless you'd like to change your password."
+msgstr ""
+
+#: ../obantu/template-profile-page.php:86
+#: ../spiritualized/template-profile-page.php:86
+msgid "Password Again"
+msgstr ""
+
+#: ../obantu/template-profile-page.php:89
+#: ../spiritualized/template-profile-page.php:89
+msgid "Type your new password again."
+msgstr ""
+
+#: ../obantu/inc/featured-slider.php:48
+msgid "Read more"
+msgstr ""
+
+#: ../obantu/inc/login.php:25 ../spiritualized/inc/login.php:25
+msgid "User registration is not enabled"
+msgstr ""
+
+#: ../obantu/inc/login.php:92 ../spiritualized/inc/login.php:92
+msgid "Username <span class=\"reqired\">*</span>"
+msgstr ""
+
+#: ../obantu/inc/login.php:96 ../spiritualized/inc/login.php:96
+msgid "Email <span class=\"reqired\">*</span>"
+msgstr ""
+
+#: ../obantu/inc/login.php:108 ../spiritualized/inc/login.php:108
+msgid "Password <span class=\"reqired\">*</span>"
+msgstr ""
+
+#: ../obantu/inc/login.php:112 ../spiritualized/inc/login.php:112
+msgid "Repeat Password <span class=\"reqired\">*</span>"
+msgstr ""
+
+#: ../obantu/inc/login.php:117 ../spiritualized/inc/login.php:117
+msgid "Register Your Account"
+msgstr ""
+
+#: ../obantu/inc/login.php:140 ../spiritualized/inc/login.php:140
+msgid "Username already taken"
+msgstr ""
+
+#: ../obantu/inc/login.php:144 ../obantu/inc/login.php:211
+#: ../spiritualized/inc/login.php:144 ../spiritualized/inc/login.php:211
+msgid "Invalid username"
+msgstr ""
+
+#: ../obantu/inc/login.php:148 ../spiritualized/inc/login.php:148
+msgid "Please enter a username"
+msgstr ""
+
+#: ../obantu/inc/login.php:152 ../spiritualized/inc/login.php:152
+msgid "Invalid email"
+msgstr ""
+
+#: ../obantu/inc/login.php:156 ../spiritualized/inc/login.php:156
+msgid "Email already registered"
+msgstr ""
+
+#: ../obantu/inc/login.php:160 ../obantu/inc/login.php:216
+#: ../spiritualized/inc/login.php:160 ../spiritualized/inc/login.php:216
+msgid "Please enter a password"
+msgstr ""
+
+#: ../obantu/inc/login.php:164 ../spiritualized/inc/login.php:164
+msgid "Passwords do not match"
+msgstr ""
+
+#: ../obantu/inc/login.php:222 ../spiritualized/inc/login.php:222
+msgid "Incorrect password"
+msgstr ""
+
+#: ../obantu/inc/login.php:248 ../spiritualized/inc/login.php:248
+msgid "Error"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:10 ../obantu/inc/portfolio.php:11
+#: ../obantu/inc/portfolio.php:12 ../obantu/inc/portfolio.php:13
+#: ../obantu/inc/portfolio.php:14 ../obantu/inc/portfolio.php:15
+#: ../obantu/inc/portfolio.php:16 ../obantu/inc/portfolio.php:17
+#: ../obantu/inc/portfolio.php:27
+msgid "Project"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:52
+msgid "Add New Type"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:53
+msgid "Edit Type"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:54
+msgid "New Type"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:55
+msgid "View Type"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:56
+msgid "Search Types"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:57
+msgid "No Type found"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:58
+msgid "No Type found in Trash"
+msgstr ""
+
+#: ../obantu/inc/portfolio.php:65
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:20
+msgid "Second Sidebar"
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:31 ../spiritualized/inc/sidebars.php:28
+msgid "Home Page Widget Area 1"
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:33
+msgid ""
+"Widgets in this area will be shown in the left (1st) box in the Home Page "
+"Template. Text widgets are recommended."
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:42 ../spiritualized/inc/sidebars.php:39
+msgid "Home Page Widget Area 2"
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:44 ../spiritualized/inc/sidebars.php:30
+msgid ""
+"Widgets in this area will be shown in the middle (2nd) box in the Home Page "
+"Template. Text widgets are recommended."
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:53
+msgid "Home Page Widget Area 3"
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:55 ../spiritualized/inc/sidebars.php:41
+msgid ""
+"Widgets in this area will be shown in the right (3rd) box in the Home Page "
+"Template. Text widgets are recommended."
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:64 ../spiritualized/inc/sidebars.php:50
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:66 ../spiritualized/inc/sidebars.php:52
+msgid ""
+"Widgets in this area will be shown in the top left (1st) area in the Footer."
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:75 ../spiritualized/inc/sidebars.php:61
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:77 ../spiritualized/inc/sidebars.php:63
+msgid ""
+"Widgets in this area will be shown in the bottom right (2nd) box in the "
+"Footer."
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:86 ../spiritualized/inc/sidebars.php:72
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:88 ../spiritualized/inc/sidebars.php:74
+msgid ""
+"Widgets in this area will be shown in the bottom left (3nd) box in the "
+"Footer."
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:97 ../spiritualized/inc/sidebars.php:83
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: ../obantu/inc/sidebars.php:99 ../spiritualized/inc/sidebars.php:85
+msgid ""
+"Widgets in this area will be shown in the bottom right (4th) box in the "
+"Footer."
+msgstr ""
+
+#: ../obantu/inc/slider.php:10 ../obantu/inc/slider.php:11
+#: ../obantu/inc/slider.php:12 ../obantu/inc/slider.php:13
+#: ../obantu/inc/slider.php:14 ../obantu/inc/slider.php:15
+#: ../obantu/inc/slider.php:16 ../obantu/inc/slider.php:17
+#: ../obantu/inc/slider.php:27 ../spiritualized/inc/slider.php:10
+#: ../spiritualized/inc/slider.php:11 ../spiritualized/inc/slider.php:12
+#: ../spiritualized/inc/slider.php:13 ../spiritualized/inc/slider.php:14
+#: ../spiritualized/inc/slider.php:15 ../spiritualized/inc/slider.php:16
+#: ../spiritualized/inc/slider.php:17 ../spiritualized/inc/slider.php:27
+msgid "Slide"
+msgstr ""
+
+#: ../obantu/inc/slider.php:18 ../spiritualized/inc/slider.php:18
+msgid "Slides"
+msgstr ""
+
+#: ../obantu/inc/template-tags.php:30
+#: ../spiritualized/inc/template-tags.php:25
+msgid "Post navigation"
+msgstr ""
+
+#: ../obantu/inc/template-tags.php:47
+#: ../spiritualized/inc/template-tags.php:42
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../obantu/inc/template-tags.php:51
+#: ../spiritualized/inc/template-tags.php:46
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../obantu/inc/template-tags.php:79
+#: ../spiritualized/inc/template-tags.php:73
+msgid "Pingback:"
+msgstr ""
+
+#: ../obantu/inc/template-tags.php:79 ../obantu/inc/template-tags.php:105
+#: ../spiritualized/inc/template-tags.php:73
+#: ../spiritualized/inc/template-tags.php:99
+msgid "(Edit)"
+msgstr ""
+
+#: ../obantu/inc/template-tags.php:93
+#: ../spiritualized/inc/template-tags.php:87
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../obantu/inc/template-tags.php:104
+#: ../spiritualized/inc/template-tags.php:98
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../obantu/inc/template-tags.php:132
+#: ../spiritualized/inc/template-tags.php:125
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline"
+"\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../obantu/inc/template-tags.php:138
+#: ../spiritualized/inc/template-tags.php:131
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../obantu/inc/theme-setup.php:249 ../spiritualized/inc/theme-setup.php:460
+msgid "Your Profile"
+msgstr ""
+
+#: ../obantu/inc/theme-setup.php:252 ../spiritualized/inc/theme-setup.php:463
+msgid "Your Orders"
+msgstr ""
+
+#: ../obantu/inc/theme-options/options-framework.php:364
+#: ../spiritualized/inc/theme-options/options-framework.php:364
+msgid "Spiritualized Theme Options"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-flickr.php:39
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-flickr.php:50
+msgid "Custom Flickr Photos"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-flickr.php:125
+#: ../obantu/inc/widgets/widget-tweets.php:126
+msgid "Title:"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-flickr.php:130
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-flickr.php:135
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-flickr.php:149
+msgid "Type (user or group):"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-flickr.php:157
+msgid "Display (random or latest):"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-tweets.php:42
+msgid "A widget that displays your latest tweets."
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-tweets.php:48
+msgid "Custom Latest Tweets"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-tweets.php:131
+msgid "Twitter Username e.g. themezilla"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-tweets.php:136
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#: ../obantu/inc/widgets/widget-tweets.php:141
+msgid "Follow Text e.g. Follow me on Twitter"
+msgstr ""
+
+#: ../obantu/older/content copy.php:74 ../spiritualized/content.php:90
+msgid "Leave a comment"
+msgstr ""
+
+#: ../obantu/older/content copy.php:74 ../spiritualized/content.php:90
+msgid "1 Comment"
+msgstr ""
+
+#: ../obantu/older/content copy.php:74 ../spiritualized/content.php:90
+msgid "% Comments"
+msgstr ""
+
+#: ../spiritualized/archive-download.php:35
+msgid "Sorry, but what you are looking for cannot be found."
+msgstr ""
+
+#: ../spiritualized/content-download.php:34
+msgid "From "
+msgstr ""
+
+#: ../spiritualized/functions.php:64
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../spiritualized/functions.php:65
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../spiritualized/functions.php:66
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../spiritualized/functions.php:67
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../spiritualized/functions.php:78
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:178
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../spiritualized/functions.php:79
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:179
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../spiritualized/functions.php:80
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../spiritualized/options.php:144
+msgid ""
+"<p>Firstly, thank you for using <a href=\"http://captaintheme.com/themes/"
+"spiritualized/\">Spiritualized</a>! Spiritualized is a theme made "
+"specifically for use with the famous <a href=\"http://easydigitaldownloads."
+"com\">Easy Digital Downloads</a> plug-in, so make sure you have the plug-in "
+"installed and activated before trying to use the theme.</p><p>This is the "
+"theme options part of the theme, where you can have greater control over the "
+"theme and design.</p><p>If you ever are in need of support, please take a "
+"look in the <a href=\"http://captaintheme.com/support/\">Support Forum</a>. "
+"You should also check <a href=\"http://captaintheme.com/docs/\">Captain "
+"Theme Documentation</a> and <a href=\"http://captaintheme.com/docs/"
+"spiritualized-documentation/\">Spiritualized Documentation</a> to see if "
+"your question has been answered before.</p>"
+msgstr ""
+
+#: ../spiritualized/taxonomy-download_category.php:14
+#, php-format
+msgid "Category: <span class=\"current\">%s</span>"
+msgstr ""
+
+#: ../spiritualized/taxonomy-download_category.php:41
+#: ../spiritualized/taxonomy-download_tag.php:41
+msgid ""
+"Apologies, but no results were found for the requested taxonomy. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../spiritualized/taxonomy-download_tag.php:14
+#, php-format
+msgid "Tag: <span class=\"current\">%s</span>"
+msgstr ""
+
+#: ../spiritualized/template-cart-page.php:24
+#: ../spiritualized/edd_templates/checkout_cart.php:7
+msgid "Item Name"
+msgstr ""
+
+#: ../spiritualized/template-cart-page.php:26
+#: ../spiritualized/edd_templates/checkout_cart.php:8
+msgid "Item Price"
+msgstr ""
+
+#: ../spiritualized/template-cart-page.php:27
+#: ../spiritualized/edd_templates/checkout_cart.php:9
+msgid "Actions"
+msgstr ""
+
+#: ../spiritualized/template-cart-page.php:57
+#: ../spiritualized/edd_templates/checkout_cart.php:38
+msgid "remove"
+msgstr ""
+
+#: ../spiritualized/template-cart-page.php:71
+#: ../spiritualized/edd_templates/checkout_cart.php:52
+msgid "Total"
+msgstr ""
+
+#: ../spiritualized/template-homepage-items.php:48
+msgid "View All Products"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:517
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1956
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1956
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../spiritualized/inc/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../spiritualized/inc/sidebars.php:7
+msgid ""
+"Place widgets here to be displayed in the default sidebar, shown in the blog "
+"or a single post for example."
+msgstr ""
+
+#: ../spiritualized/inc/sidebars.php:16
+msgid "Sidebar Store"
+msgstr ""
+
+#: ../spiritualized/inc/sidebars.php:18
+msgid ""
+"Place widgets here to be displayed in the store/downloads sidebar, shown in "
+"the store or on a single download's page for example."
+msgstr ""
+
+#: ../spiritualized/inc/slider.php:51
+msgid "Slider Image"
+msgstr ""

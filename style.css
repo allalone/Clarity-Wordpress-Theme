@@ -1,0 +1,26 @@
+/*
+Theme Name: Clarity
+Theme URI: http://captaintheme.com/themes/clarity/
+Author: Captain Theme
+Author URI: http://captaintheme.com
+Description: A tumblr-like theme with endless scrolling, extremely clean design, some theme options, social media icons and all that jazz.
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Tags: one-column, post-formats, sticky-post, theme-options, custom-header, custom-background, translation-ready, photoblogging, flexible-width
+
+*/
+	/* import foundation framework */
+	@import url("css/lib/foundation.css");
+	
+	/* import iconic icon font */
+	@import url("css/lib/iconic.css");
+	
+	/* import our main styles for the theme */
+	@import url("css/style.css");
+	
+	/* import our media queries to make this theme even more responsive */
+	@import url("css/mq.css");
+	
+	/* import open sans and scada fonts */
+	@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700|Scada:400italic,700italic,400,700);

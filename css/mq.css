@@ -1,0 +1,181 @@
+/* better padding/margins for computers etc. */
+
+@media only screen and (min-width: 768px) {
+
+	#featured h3{
+		margin-top: 2em;
+		padding-left: 2em;
+	}
+
+	#featured p{
+		padding-left: 4em;
+	}
+
+	#featured h3,
+	#featured p{
+		width: 66%;
+	}
+	.product-meta.comp { display: block; }
+	.product-meta.phone { display: none; }
+	
+}
+
+/* smaller devices now */
+
+@media only screen and (max-width:768px) {
+
+	.widget_calendar {
+		display: none;
+	}
+	
+	#access {
+		float: left;
+	}
+	
+	#access ul.menu {
+		float: left;
+	}
+	#access li:first-child, #access ul.menu {
+		margin-left: 0px;
+		margin-bottom: 0px;
+	}
+	.product-meta.comp { display: none; }
+	.product-meta.phone { display: block; }
+	.sidebar1 { display: none; }
+	
+	.footlinks .link-list {
+		line-height: 1.6;
+		padding-top: 10px;
+	}
+	
+	.log {
+		width:90%;
+		margin:0 auto;
+	}
+	
+	.profilecont {
+		width: 90%;
+		margin:	0 auto;
+	}
+	
+}
+
+
+/* 640px or less */
+
+@media only screen and (max-width: 640px) {
+
+	.storegrid.homeitems .product {
+    width: 49%;
+	}
+
+}
+
+/* 500px or less */
+
+@media only screen and (max-width: 500px) {
+	
+	.storegrid .product {
+		width: 49%;
+	}
+	
+}
+
+/* sidebar starts shrinking at this point */
+@media only screen and (max-width:955px) {
+	.yourprofile.button {
+		margin-right: 0px;
+		margin-bottom: 5px;
+	}
+
+}
+
+/* for responsive header menu after being toggled */
+@media only screen and (max-width: 560px) {
+  .slide-trigger { display: block; }
+    .no-js .slide-trigger { display: none; }
+  ul.menumainmain { display: none; }
+    .no-js ul.menumainmain { display: block; }
+  #access {
+	  border-bottom: 0;
+  }
+  ul.menumainmain {
+  	margin: 0 15px;
+  	width: 100%;
+  	overflow: visible !important;
+  }
+  ul.menumainmain li { 
+  	float: none !important;
+  	display: block;
+  	margin-left: 0;
+  	width: 100%;
+  }
+  hr.menuhr {
+	  display: block;
+	  margin-bottom: 0;
+  }
+  .site-content {
+	  margin-top: 0;
+  }
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen 
+and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+/* Styles */
+}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles */
+}
