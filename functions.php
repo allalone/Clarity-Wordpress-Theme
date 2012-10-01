@@ -137,7 +137,7 @@ function clarity_scripts() {
 	
 	wp_enqueue_script( 'foundation', get_template_directory_uri() .  '/js/lib/foundation.min.js', array( 'jquery' ), false, true );
 	
-	wp_enqueue_script( 'theme', get_template_directory_uri() . '/js/theme.js', array( 'infinite_scroll' ), false, true );
+	wp_enqueue_script( 'theme', get_template_directory_uri() . '/js/theme.js', array( 'infinite_scroll' ), false, true, 12 );
 	
 	wp_enqueue_script( 'infinite_scroll', get_template_directory_uri() . '/js/lib/jquery.infinitescroll.min.js', array('jquery'), false, true );
 	

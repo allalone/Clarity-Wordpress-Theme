@@ -4,7 +4,7 @@ Theme URI: http://captaintheme.com/themes/clarity/
 Author: Captain Theme
 Author URI: http://captaintheme.com
 Description: An endless one page tumblog.
-Version: 1.0
+Version: 1.0.2
 License: GNU General Public License
 License URI: license.txt
 Tags: one-column, post-formats, sticky-post, theme-options, custom-header, custom-background, translation-ready, photoblogging, flexible-width
@@ -148,6 +148,10 @@ li.twitter { background-image: url("../images/sm/twitter.png") }
     $CONTENT / POSTS
 \*------------------------------------*/
 
+.row.container #main {
+	padding-top: 10px;
+}
+
 h3.entry-title {
 	text-align: center;
 	font-family: 'Scada', sans-serif;
@@ -192,6 +196,12 @@ article.format-link p {
 	font-size: 20px;
 	display: inline-block;
 	padding-left: 5px;
+}
+
+/* IMAGE FORMAT */
+article.format-image img {
+	display: block;
+	margin: 0 auto;
 }
 
 /* AUDIO FORMAT */
